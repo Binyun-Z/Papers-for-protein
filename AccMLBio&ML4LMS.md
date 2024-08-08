@@ -7,7 +7,6 @@
 - [基于可能性的蛋白质语言模型微调，用于小样本适应度预测和设计](https://openreview.net/forum?id=OVucFZbn0c)
 - [定向进化中的蛋白质语言模型](https://openreview.net/forum?id=A8doVyuBaT)
 - [蛋白质适应度景观预测中的概率机器学习基准测试](https://openreview.net/forum?id=eJd8aliHai)
-
 - [利用蛋白质语言模型探索生物合成基因簇的序列景观](https://openreview.net/forum?id=UguakxTKG5)
 - [用于酶功能预测的分层对比学习](https://openreview.net/forum?id=mC8fKQh4nf)
 - [AbFlex：预测抗体 CDR 的构象灵活性](https://openreview.net/forum?id=or4tArwd5a)
@@ -22,7 +21,26 @@
 - [单个 GPU 上用 24 小时训练出高性能蛋白质语言模型](https://openreview.net/forum?noteId=UF0uMdFHOF)
 - [训练计算最优蛋白质语言模型](https://openreview.net/forum?noteId=l8MYnhSa4T)
 - [简单有效的掩蔽扩散语言模型](https://openreview.net/forum?noteId=DdU9gP4EXW)
-- 
+- [Improving protein optimization with smoothed fitness landscapes](https://openreview.net/forum?id=rxlF2Zv8x0)
+- [Protein Discovery with Discrete Walk-Jump Sampling](https://openreview.net/forum?id=zMPHKOmQNb)
+- [利用几何矢量场网络进行从头蛋白质设计](https://openreview.net/forum?id=9UIGyJJpay)
+- [用于全面蛋白质表征学习的预训练序列、结构和表面特征](https://openreview.net/forum?id=BEH4mGo7zP)
+- [评估蛋白质结构领域的表征学习](https://openreview.net/forum?id=sTYuRVrdK3)
+- [具有结构调节的动力学蛋白质设计](https://openreview.net/forum?id=jZPqf2G9Sw)
+- [KW-Design：通过知识提炼突破蛋白质设计的极限](https://openreview.net/forum?id=mpqMVWgqjn)
+- [学习设计具有增强泛化能力的蛋白质-蛋白质相互作用](https://openreview.net/forum?id=xcMmebCT7s)
+- [通过等变椭圆抛物面界面预测实现刚性蛋白质-蛋白质对接](https://openreview.net/forum?id=zgQ0PHeGnL)
+- [通过即时学习进行蛋白质多聚体结构预测](https://openreview.net/forum?id=OHpvivXrQr)
+- [针对具有挑战性的适应度景观的基于稳健模型的优化](https://openreview.net/forum?id=xhEN0kJh4q)
+- [Str2Str：基于分数的零样本蛋白质构象采样框架](https://openreview.net/forum?id=C4BikKsgmK)
+- [PiFold：实现有效且高效的蛋白质逆折叠 ](https://openreview.net/forum?id=oMsN9TYwJ0j)
+- [离散扩散后验抽样用于蛋白质设计](https://openreview.net/forum?id=xf19jajKbY)
+- [蛋白质序列设计的重要性加权期望最大化](https://openreview.net/forum?id=022cdH8brR)
+- [利用潜在图扩散实现二级结构引导的新型蛋白质序列生成](https://openreview.net/forum?id=FO3PxI0bLf)
+- [用于生物体特异性和密码子最优逆折叠的 CodonMPNN](https://openreview.net/forum?id=VB7DWYoJ6x)
+- [扩散语言模型是多功能的蛋白质学习者](https://openreview.net/forum?id=NUAbSFqyqb)
+- [ESM All-Atom：用于统一分子建模的多尺度蛋白质语言模型](https://openreview.net/forum?id=283cGgWfM2)
+- [蛋白质表征学习综述：回顾与展望](https://openreview.net/forum?id=AOmeCac2uMu)
 
 
 
